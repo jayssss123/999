@@ -1,6 +1,6 @@
 ---
 title: "Pa446"
-image: Yingjie Ji.png
+image: YingjieJi.png
 about: 
   template: jolla
   image-shape: round
