@@ -8,10 +8,17 @@ website:
     left:
       - href: index.qmd
         text: "Home"
+      - text: "About"
+        href: about.qmd
+      - text: "Spring 2024"
+        href: spring-2024.qmd
 
 
 format:
   html:
-    theme: cosmo
+  theme: sandstone
+  mainfont:arial
+  fontsize:1.5rem
+  fontcolor:"#9C3C27"
     css: styles.css
     toc: true
