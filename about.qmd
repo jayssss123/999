@@ -4,10 +4,8 @@ format: html
 editor: visual
 ---
 
-
-
-
+My name is Yingjie Ji
 :::{#ppc}
-![shameless](shameless.png)
+![picture](Yingjie Ji.png)
 :::
 

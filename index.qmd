@@ -1,6 +1,6 @@
 ---
 title: "Pa446"
-image: shameless.png
+image: Yingjie Ji.png
 about: 
   template: jolla
   image-shape: round
