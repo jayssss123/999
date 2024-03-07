@@ -6,6 +6,6 @@ editor: visual
 
 My name is Yingjie Ji
 :::{#ppc}
-![picture](Yingjie Ji.png)
+![picture](YingjieJi.png)
 :::
 
