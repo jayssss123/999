@@ -1,0 +1,10 @@
+---
+title: "Spring 2024"
+format: html
+editor: visual
+---
+
+My course:PA 446 Coding Civic Data Applications (46531) 2024 Spring
+PA 431 Civic Technology (42811) 2024 Spring
+PA 470 AI Machine Learning (45543) 2024 Spring
+PA 541 Adv Data Analysis I (39659) 2024 Spring

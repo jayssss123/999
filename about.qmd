@@ -1,0 +1,13 @@
+---
+title: "image"
+format: html
+editor: visual
+---
+
+
+
+
+:::{#ppc}
+![shameless](shameless.png)
+:::
+

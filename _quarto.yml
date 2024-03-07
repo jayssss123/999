@@ -9,16 +9,17 @@ website:
       - href: index.qmd
         text: "Home"
       - text: "About"
-        href: about.qmd
-      - text: "Spring 2024"
-        href: spring-2024.qmd
+      - about.qmd
+        - spring2024.qmd
 
 
 format:
-  html:
-  theme: sandstone
+   html:
+     theme:sandstone
   mainfont:arial
   fontsize:1.5rem
+  linkcolor:#"ff33f0"
   fontcolor:"#9C3C27"
+  monofont: courier new
     css: styles.css
     toc: true
